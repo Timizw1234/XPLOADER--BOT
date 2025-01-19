@@ -11,7 +11,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Enter your Xploader session id here; must start with XPLOADER-BOT:~",
-      "value": "",
+      "value": "XPLOADER-BOT:~nuQCVabY#kAF8NqoxdCpKNp66L9XVzav7fuoQbBa9a3oxk8-f8Rw",
       "required": false
     },
     "BOT_NAME": {
@@ -21,7 +21,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here",
-      "value": "254754783972",
+      "value": "263718408380",
       "required": true
     },
     "OWNER_NAME": {
