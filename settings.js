@@ -5,7 +5,7 @@
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : +263718408380
 //*
 //* 
 //=================================================//
@@ -15,7 +15,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
 //=================================================//
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~nuQCVabY#kAF8NqoxdCpKNp66L9XVzav7fuoQbBa9a3oxk8-f8Rw' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //=================================================//
@@ -23,7 +23,7 @@ global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '263718408380' 
 //Type your main number here
 
 //=================================================//
@@ -50,7 +50,7 @@ global.author = process.env.STICKER_AUTHOR_NAME || "ᗷOT"
 //The sticker author name
 
 //=================================================//
-global.prefixz = process.env.PREFIX || '.' 
+global.prefixz = process.env.PREFIX || '!' 
 //Set your desired prefix
 
 //=================================================//
@@ -64,17 +64,17 @@ global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
 
 //=================================================//
 //=================================================//
-global.anticall = process.env.ANTI_CALL || 'false'
+global.anticall = process.env.ANTI_CALL || 'true'
 
 //=================================================//
-global.welcome = process.env.WELCOME_MSG || 'false'
+global.welcome = process.env.WELCOME_MSG || 'true'
 
 //=================================================//
 global.timezones = process.env.TIMEZONE || "Africa/Nairobi" 
 //Don't edit this if you don't know!
 
 //=================================================//
-global.autoread = process.env.AUTO_READ || 'false';
+global.autoread = process.env.AUTO_READ || 'true';
 // Set to 'true' to enable automatic reading of messages
 
 //=================================================//
@@ -91,9 +91,9 @@ global.menustyle = process.env.MENU_STYLE || '2'
 global.mess = { 
   limit: '*Your limit is used up!*', 
   done: '*Done*', 
-  error: '*Sorry, I cannot perform that action!*', 
+  error: '*bitch, I cannot perform that action!*', 
   success: '*©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭*', 
-  owner: '*Apologies, only my owner can use this command!*', 
+  owner: '*fuck you, only my owner can use this command!*', 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
   notadmin: '*This feature will work once you become an admin. A way of ensuring order!*' 
